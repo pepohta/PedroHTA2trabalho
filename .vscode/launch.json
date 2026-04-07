@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/faculdade/EstruturaDeDados/PedroHTA2trabalho-main/PedroHTA2trabalho-main/src",
-      "program": "c:/faculdade/EstruturaDeDados/PedroHTA2trabalho-main/PedroHTA2trabalho-main/src/build/Debug/outDebug",
+      "cwd": "c:/Users/pedro/OneDrive/Documentos/GitHub/PedroHTA2trabalho/PedroHTA2trabalho-main",
+      "program": "c:/Users/pedro/OneDrive/Documentos/GitHub/PedroHTA2trabalho/PedroHTA2trabalho-main/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
