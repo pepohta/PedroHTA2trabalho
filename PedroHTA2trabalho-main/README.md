@@ -71,9 +71,12 @@ Nesse caso:
 
 ---
 
-## Compilação
+## Compilação e Execução
 
 ```bash
 g++ main.cpp src/linked_list.cpp -o programa
+.\programa.exe
 
 g++ tests/tests.cpp src/linked_list.cpp -o testes
+- Dentro da pasta testes:
+.\testes.exe
